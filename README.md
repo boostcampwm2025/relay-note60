@@ -1,5 +1,5 @@
 
-# AI의 주인이 되어보자 👑
+# AI의 주인이 되어보자 👑 : 효율적인 부스트를 위해 AI 사용하기 !
 
 <img width="1024" height="1536" alt="ChatGPT Image 2025년 7월 18일 오후 03_58_16" src="https://github.com/user-attachments/assets/1a60faed-0f7b-4888-9103-5b57b51c5417" />
 
