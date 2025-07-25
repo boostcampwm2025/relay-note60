@@ -75,7 +75,8 @@
 - 수행 방법 및 참고자료
     - plantUML  또는  Mermaid  도구를 활용한다.
     - 요구사항을 명확히 작성하거나 혹은 코드 파일을 준비하여 채팅방에 업로드 한다.
-    - 
+    - AI에게 요구사항이나 코드를 바탕으로 plantUML 문법 혹은 Mermaid 문법을 작성해달라고 프롬프트 작성한다.
+    - plant UML 또는  mermaid 사이트에 들어가서 문법을 작성하고 그림을 다운받는다.
     - plantUML 참고자료
         - https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
     - Mermaid 참고자료
