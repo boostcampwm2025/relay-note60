@@ -83,6 +83,7 @@
         - [https://medium.com/onthelook/mermaid-chatgpt-를-활용하여-1분만에-uml-diagram-그리기-e449c0716394](https://medium.com/onthelook/mermaid-chatgpt-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-1%EB%B6%84%EB%A7%8C%EC%97%90-uml-diagram-%EA%B7%B8%EB%A6%AC%EA%B8%B0-e449c0716394)
         - https://www.mermaidchart.com/mermaid-ai
 
+- 실행예시 : https://chatgpt.com/s/t_688331ad78a48191aa2ca2c34b00d877
 ### 🕹️퀘스트 4. AI를 활용해 더 깔끔한 문서화 도전하기(upgrade.ver for me)
 
 - 제작 배경
