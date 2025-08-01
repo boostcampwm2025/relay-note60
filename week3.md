@@ -85,7 +85,7 @@ J228(임성균)
 
 - AI에게 1,2,3주차 회고 입력하기
 - 입력한 회고를 바탕으로 다음 주에는 어떤 식으로 학습하면 좋을지 추천받기
-- 나만의 체크포인트를 개인적으로 만들어서 달성할 때마다 표시하기
+- 나만의 TODO 리스트를 개인적으로 만들어서 달성할 때마다 표시하기
 
 입력 EX.
 
@@ -102,12 +102,12 @@ J228(임성균)
 
 답변 EX.
 
-학습 전략
+- 학습 전략
 <img width="563" height="617" alt="image" src="https://github.com/user-attachments/assets/2d3c4daf-4a39-449a-8189-63585469d082" />
 <img width="561" height="323" alt="image" src="https://github.com/user-attachments/assets/32474c48-4da3-4304-a81d-44c3d8649f46" />
 
 
-이번주 목표
+- 이번주 목표
 <img width="538" height="427" alt="image" src="https://github.com/user-attachments/assets/611d436b-732f-4034-804c-7e049e20dafc" />
 
 ## 🕹️퀘스트 3. AI를 활용해 더 깔끔한 문서화 도전하기(upgrade.ver for me)
