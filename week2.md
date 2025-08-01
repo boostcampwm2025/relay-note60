@@ -152,8 +152,7 @@ J203_이유경
 
 
 J263_진서연
-
-
+- https://lovely-sunstone-c80.notion.site/J263-242d7ffb4ba4805db92ae88608f8c4f7?source=copy_link
 
 
 J037_김민수
