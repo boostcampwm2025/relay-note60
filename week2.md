@@ -156,6 +156,6 @@ J263_진서연
 
 
 J037_김민수
-
+- https://fair-pump-4bf.notion.site/AI-2426b7552644806aaab2d2a662a67c99?source=copy_link
 
 
