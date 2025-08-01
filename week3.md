@@ -101,13 +101,14 @@ J228(임성균)
 ```
 
 답변 EX.
-![ACA0711B-C89A-474F-97CE-6918A73E14BA](https://github.com/user-attachments/assets/82e91107-f069-46c0-b3c6-56bddb1a2743)
 
 학습 전략
-![960C92F3-C7E6-4A85-900A-EDCCC15BF5F4](https://github.com/user-attachments/assets/d31e680b-15fc-4809-839c-6cb2f403c278)
+<img width="563" height="617" alt="image" src="https://github.com/user-attachments/assets/2d3c4daf-4a39-449a-8189-63585469d082" />
+<img width="561" height="323" alt="image" src="https://github.com/user-attachments/assets/32474c48-4da3-4304-a81d-44c3d8649f46" />
+
 
 이번주 목표
-![B1B271C6-E0D9-4190-8D0E-AB5FEDDC72E9](https://github.com/user-attachments/assets/b75b16c8-5f05-4d1c-9c46-8674eeb5830b)
+<img width="538" height="427" alt="image" src="https://github.com/user-attachments/assets/611d436b-732f-4034-804c-7e049e20dafc" />
 
 ## 🕹️퀘스트 3. AI를 활용해 더 깔끔한 문서화 도전하기(upgrade.ver for me)
 
